@@ -1,4 +1,4 @@
 wget~=3.2
 torch~=2.8.0
-torchvision~=0.24.0
+torchvision~=0.23.0
 wandb~=0.22.3
